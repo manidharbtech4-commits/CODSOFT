@@ -22,5 +22,12 @@ I have successfully completed **3 Python programming tasks** for the CodSoft Int
 
 ## How to Run
 All projects run with Python. Screenshots are available in each task folder.
+## Demo Videos (Recordings)
+
+- Task 1 - Chatbot: https://drive.google.com/file/d/1YMPDomuN55zB-6dLwZCaIiLWIOFWycRd/view?usp=drive_link
+- Task 2 - Tic-Tac-Toe AI:https://drive.google.com/file/d/1D5ddwZtrG3g_7OgpQMrqI6_3Xuxw4WnR/view?usp=drive_link
+- Task 4 - Movie Recommendation:https://drive.google.com/file/d/1ZwkPbgphAr-b8FoLUXiK3yi8_rjOqPTb/view?usp=drive_link
+
+Videos show full running demos with my input and output.
 
 Thank you CodSoft!
