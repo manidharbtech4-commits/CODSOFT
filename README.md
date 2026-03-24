@@ -1,6 +1,6 @@
 # CodSoft Python Internship Tasks
 
-**Name:** Manidhar  
+**Name:** Vaddi Durga Venkata Manidhar  
 **Batch:** MARCH BATCH B89  
 **Internship Period:** 20 March 2026 - 20 April 2026
 
