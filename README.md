@@ -26,10 +26,10 @@ Screenshots of running output are available inside each task folder.
 
 ## Demo Videos (Recordings)
 
-- **Task 1 - Chatbot Demo**: https://drive.google.com/file/d/1YMPDmuN55zB-6dLwZCallWIOFWycRd/view?usp=drive_link
-- **Task 2 - Tic-Tac-Toe AI Demo**: https://drive.google.com/file/d/1D5ddwZtrG3g_7QpQMrql6_3Xuxw4WnR/view?usp=drive_link
-- **Task 4 - Movie Recommendation Demo**: https://drive.google.com/file/d/1ZwkPbqphAr-b8FoLUXiK3yi8_rJQgPTb/view?usp=drive_link
+- **Task 1 - Chatbot Demo**:https://drive.google.com/file/d/1YMPDomuN55zB-6dLwZCaIiLWIOFWycRd/view?usp=sharing
+- **Task 2 - Tic-Tac-Toe AI Demo**: https://drive.google.com/file/d/1D5ddwZtrG3g_7OgpQMrqI6_3Xuxw4WnR/view?usp=sharing
+- **Task 4 - Movie Recommendation Demo**: https://drive.google.com/file/d/1ZwkPbgphAr-b8FoLUXiK3yi8_rjOqPTb/view?usp=sharing
 
-Videos show complete running demos with my voice, input, and output.
+Videos show complete running demos with my input, and output.
 
 Thank you CodSoft for this internship opportunity!
