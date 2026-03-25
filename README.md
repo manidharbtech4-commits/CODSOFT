@@ -13,7 +13,7 @@ I have successfully completed **3 Python programming tasks** for the CodSoft Int
 - File: Task-1-Chatbot/chatbot.py
 
 ### Task 2: Tic-Tac-Toe AI
-- Unbeatable AI using Minimax with Alpha-Beta Pruning.
+- Minimax with Alpha-Beta Pruning.
 - File: Task-2-TicTacToe-AI/tic_tac_toe.py
 
 ### Task 4: Movie Recommendation System
@@ -24,11 +24,10 @@ I have successfully completed **3 Python programming tasks** for the CodSoft Int
 All projects are written in Python.  
 Screenshots of running output are available inside each task folder.
 
-## Demo Videos (Recordings)
+## Demo Video (Recordings)
+The following google drive link consists one vedio that recorded all three tasks as proof of my work
+PROOF :https://drive.google.com/file/d/1wPcT16gcgTryDafRT6-oEbST8ATva3Ti/view?usp=sharing
 
-- **Task 1 - Chatbot Demo**:https://drive.google.com/file/d/1YMPDomuN55zB-6dLwZCaIiLWIOFWycRd/view?usp=sharing
-- **Task 2 - Tic-Tac-Toe AI Demo**: https://drive.google.com/file/d/1D5ddwZtrG3g_7OgpQMrqI6_3Xuxw4WnR/view?usp=sharing
-- **Task 4 - Movie Recommendation Demo**: https://drive.google.com/file/d/1ZwkPbgphAr-b8FoLUXiK3yi8_rjOqPTb/view?usp=sharing
 
 Videos show complete running demos with my input, and output.
 
